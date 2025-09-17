@@ -1,0 +1,47 @@
+commit 804d1969c5ec491c02a7f317d9d214423ebb909f
+Author: Станислав <kapitano193@gmail.com>
+Date:   Tue Sep 16 19:38:33 2025 +0700
+
+    Обновлён .gitignore
+
+commit 6931c174377afc5cc1dc1fac3a024fc452e55d6c
+Author: Станислав <kapitano193@gmail.com>
+Date:   Tue Sep 16 19:32:06 2025 +0700
+
+    Добавил логирование в приложение
+
+commit aa6b75fa16b47e6ab61be291a04c1fbd741e0d6c
+Author: Станислав <kapitano193@gmail.com>
+Date:   Tue Sep 16 19:27:31 2025 +0700
+
+    Добавлен тестовый файл
+
+commit 758d2ea952ffa995beaa534ccd1e412c2b332439
+Author: Станислав <kapitano193@gmail.com>
+Date:   Tue Sep 16 18:50:58 2025 +0700
+
+    Rename my_second_file.txt to my_first_file.txt
+
+commit 59ccaeb9c599c4198a8a464b35bb14ccb9b39777
+Author: Станислав <kapitano193@gmail.com>
+Date:   Tue Sep 16 18:46:41 2025 +0700
+
+    Rename my_second_file.txt to my_first_file.txt
+
+commit 3df097de937f808f3d500a6e4683a3aaa1d647a1
+Author: Станислав <kapitano193@gmail.com>
+Date:   Tue Sep 16 18:28:04 2025 +0700
+
+    Added .gitignore for ignoring 'temp' folder and '.tmp' files in 'log'
+
+commit 8c591746e95edeb320a9b0bad00a2e5810488e38
+Author: Станислав <kapitano193@gmail.com>
+Date:   Sat Sep 13 15:01:03 2025 +0700
+
+    Изменён my_first_file.txt и создан my_second_file.txt
+
+commit 9061ed3c60a6da0df3ef23537187ebc0a10c5583
+Author: Станислав <kapitano193@gmail.com>
+Date:   Sat Sep 13 14:36:20 2025 +0700
+
+    Создан файл 1
